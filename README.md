@@ -1,15 +1,12 @@
 # Pixel-Glass-On-Face_OPENCV
-Sure, here's an amazing and funny repository description for your project:
-
-# Sunglass-inator 🕶️
 
 Are you tired of boring faces? Do you wish you could add some extra coolness to your photos? Well, fear not, my friend, for the Sunglass-inator is here to save the day! 🦸‍♀️
 
-This Python project is a game-changer in the world of image manipulation. With the power of OpenCV and a pinch of sorcery, it can seamlessly overlay sunglasses onto any face it detects in an image. Prepare to witness the ultimate transformation from drab to fab! 🌟
+This repository is all about adding some serious swag to your photos by overlaying stylish sunglasses on your face. Get ready to turn heads and make jaws drop with your newfound coolness. 🕶️
 
 ## Usage
 
-1. **Input:** Feed the Sunglass-inator with your boring, sunglasses-less image.
+1. **Input:** Feed the photo with your boring, sunglass-less image.
 
 ```python
 image = cv2.imread('path/to/your/boring/image.jpg')
@@ -29,10 +26,10 @@ sunglass_inator.make_it_cool(image, 'path/to/your/cool/sunglasses.png')
 
 ## Features
 
-- **Face Detection:** The Sunglass-inator can spot faces like a hawk, ensuring no one is left without a pair of shades.
+- **Face Detection:** This code can spot faces like a hawk, ensuring no one is left without a pair of glass.
 - **Automatic Sizing:** It resizes the sunglasses to fit each face perfectly, because one size doesn't fit all (except for coolness).
-- **Alpha Channel Support:** Transparency? No problem! The Sunglass-inator handles alpha channels like a pro.
-- **Multi-Face Support:** Got a group photo? The Sunglass-inator will make sure everyone looks equally cool.
+- **Alpha Channel Support:** Transparency? No problem! The code handles alpha channels like a pro.
+- **Multi-Face Support:** Got a group photo? The code will make sure everyone looks equally cool.
 
 ## Requirements
 
@@ -42,10 +39,4 @@ sunglass_inator.make_it_cool(image, 'path/to/your/cool/sunglasses.png')
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas to make the Sunglass-inator even cooler (pun intended), feel free to submit a pull request. Together, we can make the world a more fashionable place, one pair of sunglasses at a time. 😎🌍
-
-## License
-
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/), which means you can do pretty much anything with it, except for blaming me if you accidentally turn your boss into a coolness icon. 😉
-
-So, what are you waiting for? Give the Sunglass-inator a try and unleash your inner cool! 🕶️💥
+Contributions are welcome! If you have any ideas to make this repisatory even cooler (pun intended), feel free to submit a pull request. Together, we can make the world a more fashionable place, one pair of sunglasses at a time. 😎🌍
