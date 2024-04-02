@@ -23,7 +23,7 @@ sunglass_inator.make_it_cool(image, 'path/to/your/cool/sunglasses.png')
 
 3. **Output:** Behold the awesomeness! Your image is now blessed with the coolest sunglasses ever. 😎
 
-<img src="images/mob.jpg" alt="Input Image" width="200" height="200"> <img src="images/output.jpg" alt="Input Image" width="200" height="200"> 
+<img src="images/mob.jpg" alt="Input Image" width="200" height="200"> <img src="images/arrow.png" alt="Input Image" width="200" height="200"> <img src="images/output.jpg" alt="Input Image" width="200" height="200"> 
 
 ## Features
 
