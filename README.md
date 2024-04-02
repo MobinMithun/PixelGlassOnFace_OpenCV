@@ -1,7 +1,7 @@
 ## Pixel Glass On Face
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-Are you tired of boring faces? Do you wish you could add some extra coolness to your photos? Well, fear not, my friend, for the Sunglass-inator is here to save the day! 🦸‍♀️
+Are you tired of boring faces? Do you wish you could add some extra coolness to your photos? Well, fear not, my friend, for the Pixel-Glass-on_Face_OPENCV is here to save the day! 🦸‍♀️
 
 This repository is all about adding some serious swag to your photos by overlaying stylish sunglasses on your face. Get ready to turn heads and make jaws drop with your newfound coolness. 🕶️
 
