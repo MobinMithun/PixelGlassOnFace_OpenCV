@@ -1,6 +1,7 @@
 !pip install opencv-python
 !pip install numpy
 !pip install ipython
+!pip install pillow
 
 # Import necessary libraries
 import cv2
