@@ -10,18 +10,11 @@ This repository is all about adding some serious swag to your photos by overlayi
 1. **Input:** Feed the photo with your boring, sunglass-less image.
 
 ```python
-image = cv2.imread('path/to/your/boring/image.jpg')
+image_path = '/content/drive/MyDrive/ColabNotebooks/mob.jpg'
+sunglass_path = '/content/drive/MyDrive/ColabNotebooks/glass.png'
 ```
 
-2. **Abracadabra!** Let the magic happen with a few lines of code.
-
-```python
-import sunglass_inator
-
-sunglass_inator.make_it_cool(image, 'path/to/your/cool/sunglasses.png')
-```
-
-3. **Output:** Behold the awesomeness! Your image is now blessed with the coolest sunglasses ever. 😎
+2. **Output:** Abracadabra! Your image is now blessed with the coolest sunglasses ever. 😎
 
 <img src="images/mob.jpg" alt="Input Image" width="200" height="200"> <img src="images/arrow.png" alt="Input Image" width="200" height="200"> <img src="images/output.jpg" alt="Input Image" width="200" height="200"> 
 
@@ -34,9 +27,11 @@ sunglass_inator.make_it_cool(image, 'path/to/your/cool/sunglasses.png')
 
 ## Requirements
 
-- Python 3.x
-- OpenCV (`pip install opencv-python`)
-- A good sense of humor (optional, but highly recommended)
+- Python 3.X
+- OpenCV (`!pip install opencv-python`)
+- NumPy (`!pip install numpy`)
+- Pillow (`!pip install pillow`)
+- IPython (`!pip install ipython`)
 
 ## Contributing
 
