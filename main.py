@@ -1,8 +1,3 @@
-!pip install opencv-python
-!pip install numpy
-!pip install ipython
-!pip install pillow
-
 # Import necessary libraries
 import cv2
 import numpy as np
@@ -10,13 +5,9 @@ from PIL import Image
 import io
 from IPython.display import display
 
-# Upload image from Google Drive
-from google.colab import drive
-drive.mount('/content/drive')
-
-# Load image from Google Drive
-image_path = '/content/drive/MyDrive/ColabNotebooks/mob.jpg'
-sunglass_path = '/content/drive/MyDrive/ColabNotebooks/glass.png'
+# Load image from GitHub
+image_path = "https://github.com/MobinMithun/Pixel-Glass-On-Face_OpenCV/raw/main/images/mob.jpg"
+sunglass_path = "https://github.com/MobinMithun/Pixel-Glass-On-Face_OpenCV/raw/main/images/glass.png"
 
 # Load image and sunglasses (assuming transparency in sunglasses)
 image = cv2.imread(image_path, cv2.IMREAD_UNCHANGED)  # Read with flag to preserve format
