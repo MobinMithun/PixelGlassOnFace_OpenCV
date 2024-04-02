@@ -23,10 +23,8 @@ sunglass_inator.make_it_cool(image, 'path/to/your/cool/sunglasses.png')
 
 3. **Output:** Behold the awesomeness! Your image is now blessed with the coolest sunglasses ever. 😎
 
-![Input Image](images/mob.jpg =200X200) → ![Output Image](path/to/your/cool/output.jpg)
-
 <img src="images/mob.jpg" alt="Input Image" width="200" height="200">
-
+<div style="font-size: 50px; line-height: 0.5;">&rarr;</div> 
 ## Features
 
 - **Face Detection:** This code can spot faces like a hawk, ensuring no one is left without a pair of glass.
