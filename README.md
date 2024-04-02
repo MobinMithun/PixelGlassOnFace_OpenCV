@@ -25,6 +25,8 @@ sunglass_inator.make_it_cool(image, 'path/to/your/cool/sunglasses.png')
 
 ![Input Image](images/mob.jpg =200X200) → ![Output Image](path/to/your/cool/output.jpg)
 
+<img src="images/mob.jpg" alt="Input Image" width="200" height="200">
+
 ## Features
 
 - **Face Detection:** This code can spot faces like a hawk, ensuring no one is left without a pair of glass.
